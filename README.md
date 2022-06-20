@@ -13,3 +13,10 @@ Notes on Raspberry Pi Devices
 ![IMG_0655](https://user-images.githubusercontent.com/58792/174637421-336f5dce-8927-4ba8-9098-3f65ccff6fa5.jpg)
 
 * [Getting Started](https://wiki.seeedstudio.com/Dual-Gigabit-Ethernet-Carrier-Board-for-Raspberry-Pi-CM4/)
+
+
+## Edge Inference
+
+* [Uses Coral AI](https://coral.ai/)
+
+![IMG_0656](https://user-images.githubusercontent.com/58792/174684166-cae6c565-0b92-47d0-94b1-85d051d5ca52.jpg)
