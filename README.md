@@ -7,3 +7,5 @@ Notes on Raspberry Pi Devices
 
 ## Mini Router
 ![IMG_0655](https://user-images.githubusercontent.com/58792/174637421-336f5dce-8927-4ba8-9098-3f65ccff6fa5.jpg)
+
+* [Getting Started](https://wiki.seeedstudio.com/Dual-Gigabit-Ethernet-Carrier-Board-for-Raspberry-Pi-CM4/)
