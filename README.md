@@ -20,3 +20,17 @@ Notes on Raspberry Pi Devices
 * [Uses Coral AI](https://coral.ai/)
 
 ![IMG_0656](https://user-images.githubusercontent.com/58792/174684166-cae6c565-0b92-47d0-94b1-85d051d5ca52.jpg)
+
+### Get Coral Running
+
+1.  Upgrade OS [upgrade raspberry pi OS steps](https://www.raspberrypi.com/documentation/computers/os.html)
+2.  Install Vim:  `sudo apt-get install vim`
+3.  SSH into your raspberry pi.
+4. Follow guide from Coral to install [Edge TPU runtime](https://coral.ai/docs/accelerator/get-started/#requirements)
+5. Since this is a lab experiment I chose maximum operating frequency (sudo apt-get install libedgetpu1-max)
+6.  Go through "run a model" code [found here](https://coral.ai/docs/accelerator/get-started/#3-run-a-model-on-the-edge-tpu)
+
+
+
+
+
