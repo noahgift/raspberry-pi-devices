@@ -27,7 +27,7 @@ Notes on Raspberry Pi Devices
 2.  Install Vim:  `sudo apt-get install vim`
 3.  Install Git:  `sudo apt-get install git`
 4.  SSH into your raspberry pi.
-5.  Upgrade [Python to 3.9](https://stackoverflow.com/questions/64718274/how-to-update-python-in-raspberry-pi)
+5.  Upgrade [Python to 3.9](https://stackoverflow.com/questions/64718274/how-to-update-python-in-raspberry-pi), i.e. `wget https://www.python.org/ftp/python/3.9.9/Python-3.9.9.tgz`
 5. Follow guide from Coral to install [Edge TPU runtime](https://coral.ai/docs/accelerator/get-started/#requirements)
 6. Since this is a lab experiment I chose maximum operating frequency (sudo apt-get install libedgetpu1-max)
 7.  Go through "run a model" code [found here](https://coral.ai/docs/accelerator/get-started/#3-run-a-model-on-the-edge-tpu)
