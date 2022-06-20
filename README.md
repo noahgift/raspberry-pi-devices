@@ -1,6 +1,7 @@
 # raspberry-pi-devices
 Notes on Raspberry Pi Devices
 
+* [upgrade raspberry pi OS steps](https://www.raspberrypi.com/documentation/computers/os.html)
 
 ## reTerminal
 ![IMG_0654](https://user-images.githubusercontent.com/58792/174637418-c427ac34-c0e0-4d9f-b455-9f09fd2c93d1.jpg)
